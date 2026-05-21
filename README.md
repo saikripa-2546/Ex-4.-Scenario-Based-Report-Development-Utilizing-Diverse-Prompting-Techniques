@@ -1,12 +1,10 @@
 # Ex-4.-Scenario-Based-Report-Development-Utilizing-Diverse-Prompting-Techniques
 Objective: The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
 
-Objective: The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
-
-Aim:
+## Aim:
 To design and develop an AI-powered retail chatbot that can handle customer inquiries, provide product recommendations, track orders, and manage customer support services using different AI prompting techniques to improve response quality and customer experience.
 
-Algorithm:
+## Algorithm:
 Step 1: Define the Chatbot Objective
 
 Identify the main purpose of the retail chatbot such as answering customer queries, providing product recommendations, tracking orders, and handling return or replacement requests.
@@ -43,10 +41,10 @@ Step 9: Generate Final Report
 
 Prepare a final report summarizing chatbot design, prompting techniques used, response analysis, observations, and conclusions.
 
-Prompt:
+## Prompt:
 Design and develop an AI-powered retail chatbot to handle customer inquiries, product recommendations, order tracking, and return requests. Use prompting techniques such as Zero-shot, Few-shot, Chain-of-Thought, and Instruction-based prompting to improve chatbot responses. Test the chatbot across different retail customer scenarios and collect generated responses for analysis. Evaluate performance based on accuracy, relevance, clarity, response quality, and customer satisfaction.
 
-Output:
+## Output:
 [AI-Powered-Retail-Chatbot-Experiment.pdf](https://github.com/user-attachments/files/28082489/AI-Powered-Retail-Chatbot-Experiment.pdf)
 
 
